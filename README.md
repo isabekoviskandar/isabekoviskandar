@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Iskandar and I am backend developr
+Hi my name is Iskandar and I am backend developer
 
 
 ## 🌐 Socials:
